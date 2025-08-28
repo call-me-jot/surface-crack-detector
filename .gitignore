@@ -169,3 +169,6 @@ cython_debug/
 
 # PyPI configuration file
 .pypirc
+cnn_checkpoint.weights.h5
+cnn_trained_model.h5
+dataset[1].zip
